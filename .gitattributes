@@ -1,0 +1,6 @@
+* text=auto
+Makefile text whitespace=-tab-in-indent,blank-at-eol,tabwidth=2
+*.css linguist-vendored
+*.scss linguist-vendored
+*.js linguist-vendored
+CHANGELOG.md export-ignore
